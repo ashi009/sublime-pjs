@@ -1,0 +1,12 @@
+// [PackageDev] target_format: plist, ext: tmLanguage
+{
+  "name": "Preprocess Javascript",
+  "scopeName": "source.pjs",
+  "fileTypes": ["pjs"],
+  "uuid": "1c0d3259-dfbe-4ed0-be06-1862d2036a58",
+
+  "patterns": [
+    { "include": "source.js" },
+    { "include": "source.c" }
+  ]
+}
