@@ -20,7 +20,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.pjs</string>
+	<string>source.js.preprocess</string>
 	<key>uuid</key>
 	<string>1c0d3259-dfbe-4ed0-be06-1862d2036a58</string>
 </dict>
